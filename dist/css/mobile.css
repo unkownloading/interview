@@ -1,0 +1,7 @@
+.mobile-icon {
+  position: relative;
+  display: flex;
+  display: none;
+  flex-direction: column;
+  background: red;
+}/*# sourceMappingURL=mobile.css.map */

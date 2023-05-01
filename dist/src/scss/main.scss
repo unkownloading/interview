@@ -401,9 +401,7 @@ li {
 //rwd
 
 @media screen and (max-width : 1000px) {
-    .header .header-content .logo {
-        display: none;
-    }
+
 
     .wrap .wrap-content {
         .slogan h1 {
@@ -472,3 +470,6 @@ li {
 
 
 }
+
+
+@import "mobile";
