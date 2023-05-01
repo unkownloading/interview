@@ -64,6 +64,10 @@
         display: none;
     }
 
+    .header .header-content .logo {
+        left: -60px;
+    }
+
     .mobile-icon {
         display: flex;
         position: absolute;
@@ -76,9 +80,10 @@
             ~.menu {
                 margin: auto;
                 display: flex;
+                flex-wrap: wrap;
                 justify-content: space-around;
                 z-index: 3;
-                width: 50%;
+                max-width: 50%;
                 height: 50px;
                 background: #fff;
                 position: fixed;
