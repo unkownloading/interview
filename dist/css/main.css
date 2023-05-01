@@ -341,7 +341,7 @@ li {
   padding-left: 0;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1530px) {
   .wrap .wrap-content .slogan h1 {
     font-size: 35px;
   }
@@ -439,7 +439,7 @@ li {
   transform: rotate(-45deg);
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1530px) {
   .header .header-content .menu {
     display: none;
   }
