@@ -432,7 +432,16 @@ li {
         }
 
         .bg1 {
+
             display: none;
+
+            &::before {
+                display: none;
+            }
+
+            &::after {
+                display: none;
+            }
         }
 
         .three-car {

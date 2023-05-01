@@ -366,6 +366,12 @@ li {
   .wrap .wrap-content .bg1 {
     display: none;
   }
+  .wrap .wrap-content .bg1::before {
+    display: none;
+  }
+  .wrap .wrap-content .bg1::after {
+    display: none;
+  }
   .wrap .wrap-content .three-car {
     flex-direction: column;
     align-items: center;
